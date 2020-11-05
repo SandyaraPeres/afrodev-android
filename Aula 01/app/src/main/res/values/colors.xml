@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Utilize o arquivo de colors.xml para criar variáveis de suas cores e reutilizar em seu código! -->
+    <color name="primaryColorAfrodev">#BB86FC</color>
+    <color name="primaryColorTextAfrodev">#000000</color>
+</resources>

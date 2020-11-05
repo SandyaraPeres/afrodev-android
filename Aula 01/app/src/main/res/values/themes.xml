@@ -1,0 +1,12 @@
+<resources>
+
+    <!-- Styles são conjuntos de atributos para que não tenhamos que repetir código desnecessáriamente
+        Ex.: Botões costumam ter o mesmo estilo no decorrer de um app, títulos, links, etc.
+    -->
+    <style name="BotaoPrimario">
+        <item name="android:backgroundTint">@color/primaryColorAfrodev</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:color">@color/primaryColorTextAfrodev</item>
+    </style>
+
+</resources>

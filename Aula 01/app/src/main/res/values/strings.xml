@@ -1,0 +1,6 @@
+<resources>
+
+    <!-- Utilize o arquivo de strings.xml para criar variáveis de seus textos reutilizar em seu código! -->
+    <string name="app_name">Aula01</string>
+    <string name="btn_click">Olha eu aqui!</string>
+</resources>

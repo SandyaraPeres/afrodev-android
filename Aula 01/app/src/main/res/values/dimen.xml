@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Utilize o arquivo de dimen.xml para criar variáveis de dimensões como
+     tamanhos, espaçamentos para reutilizar em seu código! -->
+    <dimen name="app_name">8dp</dimen>
+    <dimen name="btn_click">24dp</dimen>
+
+</resources>
