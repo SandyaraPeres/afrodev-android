@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Aula_02</string>
+    <string name="edt_nome_usuario_placeholder">Qual é o seu nome?</string>
+</resources>

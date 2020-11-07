@@ -42,10 +42,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Aula 02" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.17" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -126,18 +123,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="198" y="96" key="#PSD" timestamp="1604623670548">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="198" y="96" key="#PSD/0.0.1366.728@0.0.1366.728" timestamp="1604623670548" />
     <state x="481" y="112" key="AndroidProcessChooserDialog" timestamp="1604621626244">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="481" y="112" key="AndroidProcessChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1604621626244" />
-    <state x="461" y="119" key="FileChooserDialogImpl" timestamp="1604623693901">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="461" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1604623693901" />
     <state width="1322" height="158" key="GridCell.Tab.0.bottom" timestamp="1604621726412">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
