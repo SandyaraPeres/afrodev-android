@@ -31,4 +31,7 @@ https://github.com/nfcezar/ProjetoPokedex
 
 [Esdras Gois](https://www.linkedin.com/in/gsesdras/)  
 https://github.com/gsesdras/afrodev_pokedex  
+
+[Eduardo Estevão](https://www.linkedin.com/in/eduardo-estev%C3%A3o-3304146b/)
+https://github.com/edunet1990/projects_afrodev_android_kotlin/
   
